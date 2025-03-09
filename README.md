@@ -1,6 +1,6 @@
 # AI_content_generator
 
-# AI Content Generator Agent using CrewAI
+# AI Content Generator using CrewAI
 
 This project is an **AI-powered content generation system** using **CrewAI agents** for planning, writing, and editing structured articles based on a given topic. It leverages **Hugging Face models** for text generation and ensures high-quality content creation.
 
