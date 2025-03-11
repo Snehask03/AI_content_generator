@@ -7,9 +7,9 @@ This project is an **AI-powered content generation system** using **CrewAI agent
 ---
 
 ## Features
-✅ **AI-powered Content Creation** – Automates content planning, writing, and editing  
-✅ **CrewAI Agents** – Planner, Writer, and Editor work together to generate well-structured articles  
-✅ **Hugging Face Model Integration** – Uses state-of-the-art language models for text generation  
-✅ **Customizable Topics** – User inputs a topic, and AI generates a complete article  
-✅ **SEO Optimization** – Includes keywords for better content discoverability  
+**AI-powered Content Creation** – Automates content planning, writing, and editing  
+**CrewAI Agents** – Planner, Writer, and Editor work together to generate well-structured articles  
+**Hugging Face Model Integration** – Uses state-of-the-art language models for text generation  
+**Customizable Topics** – User inputs a topic, and AI generates a complete article  
+**SEO Optimization** – Includes keywords for better content discoverability  
 
