@@ -13,3 +13,7 @@ This project is an **AI-powered content generation system** using **CrewAI agent
 **Customizable Topics** – User inputs a topic, and AI generates a complete article  
 **SEO Optimization** – Includes keywords for better content discoverability  
 
+## Note on Model Change:
+
+The original model was replaced with Zephyr-7B-Beta to improve compatibility and performance across different environments. This update ensures better accessibility and more stable execution, especially for users with varied hardware configurations.
+
